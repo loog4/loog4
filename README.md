@@ -1,4 +1,19 @@
-### Hi there 👋
+<h1? Hi there, I'm Luis. Take a look at some projects I've worked on. </h1
+
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs]()
+  - [Common Tasks in Active Directory]()
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+
+- <b>Pentesting</b>
+  - [Basic Pentesting Lab using Kali, Windows 10, and pfSense]()
+
+<h2>🖥️ Coding Projects:</h2>
+- <b>Odin Project</b>
+  - [Simple Website using HTML and CSS](https://github.com/loog4/odin-recipes)
+
 
 <!--
 **loog4/loog4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
