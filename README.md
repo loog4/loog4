@@ -11,6 +11,7 @@
   - [Basic Pentesting Lab using Kali, Windows 10, and pfSense](https://github.com/loog4/pentest-lab)
 
 <h2>🖥️ Coding Projects:</h2>
+
 - <b>Odin Project</b>
   - [Simple Website using HTML and CSS](https://github.com/loog4/odin-recipes)
 
