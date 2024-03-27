@@ -3,12 +3,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs]()
-  - [Common Tasks in Active Directory]()
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+  - [Configuring Active Directory within Azure VMs](https://github.com/loog4/configure-ad)
+  - [Common Tasks in Active Directory](https://github.com/loog4/ad-tasks)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/loog4/azure-networking)
 
 - <b>Pentesting</b>
-  - [Basic Pentesting Lab using Kali, Windows 10, and pfSense]()
+  - [Basic Pentesting Lab using Kali, Windows 10, and pfSense](https://github.com/loog4/pentest-lab)
 
 <h2>🖥️ Coding Projects:</h2>
 - <b>Odin Project</b>
