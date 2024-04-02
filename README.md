@@ -7,7 +7,7 @@
   - [Common Tasks in Active Directory](https://github.com/loog4/ad-tasks)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/loog4/azure-networking)
 
-# - <b>Pentesting</b>
+//- <b>Pentesting</b>
 #  - [Basic Pentesting Lab using Kali, Windows 10, and pfSense](https://github.com/loog4/pentest-lab)
 
 <h2>🖥️ Coding Projects:</h2>
