@@ -9,6 +9,10 @@
 <!-- - <b>Pentesting</b> 
   - [Basic Pentesting Lab using Kali, Windows 10, and pfSense](https://github.com/loog4/pentest-lab) -->
 
+- <b>osTicket (Help Desk Ticketing System)<b>
+  - [Implementing a Help Desk Ticketing System (osTicket) using Azure Virtual Machines]()
+  - [osTicket Post-Installation Configuration]()
+
 <h2>🖥️ Coding Projects:</h2>
 
 - <b>Odin Project</b>
