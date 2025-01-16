@@ -4,9 +4,8 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/loog4/configure-ad)
-  - [Common Tasks in Active Directory](https://github.com/loog4/ad-tasks)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/loog4/azure-networking)
-
+  - [Common Tasks in Active Directory](https://github.com/loog4/ad-tasks)
 <!-- - <b>Pentesting</b> 
   - [Basic Pentesting Lab using Kali, Windows 10, and pfSense](https://github.com/loog4/pentest-lab) -->
 
