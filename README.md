@@ -11,7 +11,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)<b>
   - [Implementing a Help Desk Ticketing System (osTicket) using Azure Virtual Machines](https://github.com/loog4/osticket-preinstall)
-  - [osTicket Post-Installation Configuration]()
+  - [osTicket Post-Installation Configuration](https://github.com/loog4/osticket-postinstall)
 
 <h2>🖥️ Coding Projects:</h2>
 
